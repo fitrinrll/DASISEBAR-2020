@@ -109,7 +109,7 @@ Setelah dilakukan visualisasi sesuai kebutuhan informasi, dibangunlah sistem das
 </div>
 
 ## Kesimpulan
-Dashboard informasi ini menampilkan visualisasi keadaan sosial dan keadaan ekonomi Provinsi Jawa Barat pada tahun 2020. Dengan adanya dashboard informasi ini diharapkan dapat membantu masyarakat umum untuk mengetahui keadaan sosial ekonomi di Jawa Barat dan dapat membantu pemerintah dalam mengambil keputusan dan membuat rancangan kebijakan di tahun setelahnya.
+Dashboard informasi ini menampilkan visualisasi keadaan sosial dan keadaan ekonomi Provinsi Jawa Barat pada tahun 2020. Dengan adanya dashboard informasi ini diharapkan dapat membantu masyarakat umum untuk mengetahui keadaan sosial ekonomi di Jawa Barat dan dapat membantu pemerintah dalam mengambil keputusan dan membuat rancangan kebijakan di tahun selanjutnya.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
