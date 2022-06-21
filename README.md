@@ -6,7 +6,7 @@ DASISEBAR 2020 adalah dashboard informasi yang memuat visualisasi data sosial ek
 <br><br>
 Hasil dari dashboard dapat dilihat melalui link dibawah ini.
 
-<a href="https://public.tableau.com/app/profile/fitri.nurul.fadliah/viz/DashboardSosialEkonomiProvinsiJawaBarat/Sosial">Dashboard Informasi Sosial Ekonomi Provinsi Jawa Barat 2020</a>
+<a href="https://public.tableau.com/app/profile/fitri.nurul.fadliah/viz/DashboardSosialEkonomiProvinsiJawaBarat/Sosial" target = "_blank">Dashboard Informasi Sosial Ekonomi Provinsi Jawa Barat 2020</a>
 
 ## Analisis Kebutuhan
 Analisis kebutuhan informasi merupakan tahapan mencari informasi dimana informasi tersebut dijadikan sebagai batasan untuk ditampilkan di dalam dashboard, sehingga informasi yang ditampilkan sesuai dengan tujuan penelitian. Berikut adalah  kebutuhan informasi yang dibutuhkan dalam dashboard informasi yang menggambarkan keadaan sosial ekonomi Provinsi Jawa Barat:
@@ -24,7 +24,7 @@ Analisis kebutuhan informasi merupakan tahapan mencari informasi dimana informas
 </ul>
 
 ## Dataset 
-Data yang digunakan dalam penelitian ini berasal dari data publikasi Badan Pusat Statistik (BPS) Provinsi Jawa Barat (<a href="https://www.bps.go.id/">bps.go.id</a>) tahun 2020. Data yang digunakan adalah sebagai berikut:
+Data yang digunakan dalam penelitian ini berasal dari data publikasi Badan Pusat Statistik (BPS) Provinsi Jawa Barat (<a href="https://www.bps.go.id/" target = "_blank">bps.go.id</a>) tahun 2020. Data yang digunakan adalah sebagai berikut:
 1.	Indeks Pembangunan Manusia (IPM)
 2.	Proyeksi Penduduk menurut usia dan jenis kelamin
 3.	Jumlah Wilayah Administrasi
